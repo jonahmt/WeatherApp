@@ -15,6 +15,7 @@
 		82F3AE3828AC41F000ACEFDE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82F3AE3628AC41F000ACEFDE /* LaunchScreen.storyboard */; };
 		82F3AE4328AC41F000ACEFDE /* WeatherAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F3AE4228AC41F000ACEFDE /* WeatherAppTests.swift */; };
 		82F3AE4E28AC41F000ACEFDE /* WeatherAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F3AE4D28AC41F000ACEFDE /* WeatherAppUITests.swift */; };
+		82F3AE5C28AC78C100ACEFDE /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F3AE5B28AC78C100ACEFDE /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		82F3AE4928AC41F000ACEFDE /* WeatherAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		82F3AE4D28AC41F000ACEFDE /* WeatherAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAppUITests.swift; sourceTree = "<group>"; };
 		82F3AE4F28AC41F000ACEFDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82F3AE5B28AC78C100ACEFDE /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				82F3AE2B28AC41EF00ACEFDE /* AppDelegate.swift */,
 				82F3AE2D28AC41EF00ACEFDE /* SceneDelegate.swift */,
 				82F3AE2F28AC41EF00ACEFDE /* ViewController.swift */,
+				82F3AE5B28AC78C100ACEFDE /* Model.swift */,
 				82F3AE3128AC41EF00ACEFDE /* Main.storyboard */,
 				82F3AE3428AC41F000ACEFDE /* Assets.xcassets */,
 				82F3AE3628AC41F000ACEFDE /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				82F3AE3028AC41EF00ACEFDE /* ViewController.swift in Sources */,
 				82F3AE2C28AC41EF00ACEFDE /* AppDelegate.swift in Sources */,
 				82F3AE2E28AC41EF00ACEFDE /* SceneDelegate.swift in Sources */,
+				82F3AE5C28AC78C100ACEFDE /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
