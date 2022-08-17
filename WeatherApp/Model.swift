@@ -9,4 +9,7 @@ import Foundation
 
 class Model {
     
+    var location: String = "Santa Barbara"
+    var temperature: Int = 70
+    
 }
